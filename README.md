@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on codeworks software engineering bootcamp
+- 🔭 I am very interested in software engineering
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: victor.klawitter@gmail.com
 
